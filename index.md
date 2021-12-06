@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Adam Stubbs' Portfolio
 
-You can use the [editor on GitHub](https://github.com/Adamstrench/portf/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! My name is Adam Stubbs and this will be the website containing the content of my portfolio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you for visiting!
+
 
 ### Markdown
 
