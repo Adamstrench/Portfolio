@@ -5,9 +5,9 @@ Hi! My name is Adam Stubbs and this will be the website containing the content o
 Thank you for visiting!
 
 
-### Markdown
+### JavaScript
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I've spent the last few months learning JavaScript syntax - And recently started a back-end engineer course on Codecademy - Hoping to soon be able to start my career within the tech industry.
 
 ```markdown
 Syntax highlighted code block
